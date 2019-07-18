@@ -1,0 +1,27 @@
+start_time        : 1563336117
+last_update       : 1563415033
+fuzzer_pid        : 17843
+cycles_done       : 103
+execs_done        : 7255157
+execs_per_sec     : 48.54
+paths_total       : 4248
+paths_favored     : 223
+paths_found       : 1800
+paths_imported    : 2446
+max_depth         : 18
+cur_path          : 4247
+pending_favs      : 1
+pending_total     : 372
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 5.48%
+unique_crashes    : 0
+unique_hangs      : 37
+last_path         : 1563414836
+last_crash        : 0
+last_hang         : 1563358967
+execs_since_crash : 7255157
+exec_timeout      : 40
+afl_banner        : afl1
+afl_version       : 2.51b
+command_line      : /root/rowfuzzer/aflfast/afl-fuzz -m none -p fast -i in -o out-cmp-aflfast-1 -S afl1 /root/projects/libming/libming-bin/listswf @@

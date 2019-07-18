@@ -1,0 +1,27 @@
+start_time        : 1562841094
+last_update       : 1563180698
+fuzzer_pid        : 6690
+cycles_done       : 111792299
+execs_done        : 5921
+execs_per_sec     : 0.00
+paths_total       : 1
+paths_favored     : 1
+paths_found       : 0
+paths_imported    : 0
+max_depth         : 1
+cur_path          : 0
+pending_favs      : 0
+pending_total     : 0
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 0.16%
+unique_crashes    : 0
+unique_hangs      : 0
+last_path         : 0
+last_crash        : 0
+last_hang         : 0
+execs_since_crash : 5921
+exec_timeout      : 20
+afl_banner        : aflfast
+afl_version       : 2.51b
+command_line      : ./aflfast/afl-fuzz -p fast -i in -o out -S aflfast ./upx.out -l

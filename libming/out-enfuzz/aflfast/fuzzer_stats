@@ -1,0 +1,27 @@
+start_time        : 1563336106
+last_update       : 1563415025
+fuzzer_pid        : 7331
+cycles_done       : 100
+execs_done        : 8082273
+execs_per_sec     : 113.17
+paths_total       : 4307
+paths_favored     : 234
+paths_found       : 2063
+paths_imported    : 2242
+max_depth         : 6
+cur_path          : 1560
+pending_favs      : 0
+pending_total     : 362
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 5.48%
+unique_crashes    : 0
+unique_hangs      : 12
+last_path         : 1563413768
+last_crash        : 0
+last_hang         : 1563355636
+execs_since_crash : 8082273
+exec_timeout      : 40
+afl_banner        : aflfast
+afl_version       : 2.51b
+command_line      : /root/x-enfuzz//aflfast/afl-fuzz -m none -p fast -i in -o out-enfuzz -S aflfast /root/projects/libming/libming-bin/listswf @@

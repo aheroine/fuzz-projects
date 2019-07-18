@@ -1,0 +1,1783 @@
+Entering new queueing cycle
+while bitflipping, 0 of 0 tries hit branch -1
+while calibrating, 0 of 0 tries hit branch -1
+calib stage: 82 new coverage in 3933 total execs
+calib stage: 48 new branches in 3933 total execs
+In deterministic stage, 0 of 0 tries hit branch -1
+det stage: 216 new coverage in 31475 total execs
+det stage: 121 new branches in 31475 total execs
+In havoc stage, 0 of 0 tries hit branch -1
+havoc stage: 369 new coverage in 65471 total execs
+havoc stage: 165 new branches in 65471 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000624,sync:afl3,src:000885,+cov: 
+which hit branch 65462 (hit by 1 inputs) 
+while bitflipping, 1009 of 1104 tries hit branch 65462
+while calibrating, 108 of 138 tries hit branch 65462
+calib stage: 0 new coverage in 1243 total execs
+calib stage: 0 new branches in 1243 total execs
+In deterministic stage, 8033 of 12205 tries hit branch 65462
+det stage: 7 new coverage in 13506 total execs
+det stage: 6 new branches in 13506 total execs
+In havoc stage, 171 of 1024 tries hit branch 65462
+havoc stage: 7 new coverage in 14530 total execs
+havoc stage: 6 new branches in 14530 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000804,sync:afl2,src:000878,+cov: 
+which hit branch 46840 (hit by 1 inputs) 
+while bitflipping, 1974 of 2080 tries hit branch 46840
+while calibrating, 242 of 260 tries hit branch 46840
+calib stage: 10 new coverage in 2421 total execs
+calib stage: 3 new branches in 2421 total execs
+In deterministic stage, 35377 of 39524 tries hit branch 46840
+det stage: 51 new coverage in 42277 total execs
+det stage: 15 new branches in 42277 total execs
+In havoc stage, 8970 of 32768 tries hit branch 46840
+havoc stage: 136 new coverage in 75736 total execs
+havoc stage: 36 new branches in 75736 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000858,sync:afl2,src:000872,+cov: 
+which hit branch 32922 (hit by 1 inputs) 
+while bitflipping, 1412 of 1664 tries hit branch 32922
+while calibrating, 41 of 208 tries hit branch 32922
+calib stage: 3 new coverage in 1896 total execs
+calib stage: 0 new branches in 1896 total execs
+In deterministic stage, 18462 of 36100 tries hit branch 32922
+det stage: 7 new coverage in 38030 total execs
+det stage: 2 new branches in 38030 total execs
+In havoc stage, 55 of 1024 tries hit branch 32922
+havoc stage: 7 new coverage in 39055 total execs
+havoc stage: 2 new branches in 39055 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000863,sync:afl2,src:000876,+cov: 
+which hit branch 63192 (hit by 1 inputs) 
+while bitflipping, 889 of 976 tries hit branch 63192
+while calibrating, 107 of 122 tries hit branch 63192
+calib stage: 15 new coverage in 1218 total execs
+calib stage: 15 new branches in 1218 total execs
+In deterministic stage, 16080 of 19429 tries hit branch 63192
+det stage: 18 new coverage in 20673 total execs
+det stage: 16 new branches in 20673 total execs
+In havoc stage, 3849 of 24576 tries hit branch 63192
+havoc stage: 38 new coverage in 45410 total execs
+havoc stage: 20 new branches in 45410 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000889,sync:afl1,src:000915,+cov: 
+which hit branch 61228 (hit by 1 inputs) 
+while bitflipping, 2365 of 2496 tries hit branch 61228
+while calibrating, 290 of 312 tries hit branch 61228
+calib stage: 15 new coverage in 2930 total execs
+calib stage: 0 new branches in 2930 total execs
+In deterministic stage, 20213 of 25122 tries hit branch 61228
+det stage: 37 new coverage in 28229 total execs
+det stage: 0 new branches in 28229 total execs
+In havoc stage, 3238 of 24576 tries hit branch 61228
+havoc stage: 54 new coverage in 52943 total execs
+havoc stage: 2 new branches in 52943 total execs
+Was returning list of size 0
+Upped max exp to 2
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001164,sync:afl3,src:001176,+cov: 
+which hit branch 62499 (hit by 3 inputs) 
+while bitflipping, 255 of 352 tries hit branch 62499
+while calibrating, 30 of 44 tries hit branch 62499
+calib stage: 0 new coverage in 396 total execs
+calib stage: 0 new branches in 396 total execs
+In deterministic stage, 4746 of 7788 tries hit branch 62499
+det stage: 0 new coverage in 8184 total execs
+det stage: 0 new branches in 8184 total execs
+In havoc stage, 21 of 512 tries hit branch 62499
+havoc stage: 0 new coverage in 8696 total execs
+havoc stage: 0 new branches in 8696 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001177,sync:afl3,src:001247,+cov: 
+which hit branch 33362 (hit by 3 inputs) 
+while bitflipping, 624 of 704 tries hit branch 33362
+while calibrating, 75 of 88 tries hit branch 33362
+calib stage: 0 new coverage in 792 total execs
+calib stage: 0 new branches in 792 total execs
+In deterministic stage, 11193 of 14151 tries hit branch 33362
+det stage: 0 new coverage in 14945 total execs
+det stage: 0 new branches in 14945 total execs
+In havoc stage, 90 of 1024 tries hit branch 33362
+havoc stage: 0 new coverage in 15969 total execs
+havoc stage: 0 new branches in 15969 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001225,sync:afl3,src:001098,+cov: 
+which hit branch 64271 (hit by 3 inputs) 
+while bitflipping, 920 of 1056 tries hit branch 64271
+while calibrating, 110 of 132 tries hit branch 64271
+calib stage: 0 new coverage in 1188 total execs
+calib stage: 0 new branches in 1188 total execs
+In deterministic stage, 7258 of 12989 tries hit branch 64271
+det stage: 0 new coverage in 14178 total execs
+det stage: 0 new branches in 14178 total execs
+In havoc stage, 119 of 1024 tries hit branch 64271
+havoc stage: 0 new coverage in 15203 total execs
+havoc stage: 0 new branches in 15203 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001265,sync:afl3,src:001508,+cov: 
+which hit branch 32131 (hit by 3 inputs) 
+while bitflipping, 2670 of 2800 tries hit branch 32131
+while calibrating, 327 of 350 tries hit branch 32131
+calib stage: 2 new coverage in 3166 total execs
+calib stage: 0 new branches in 3166 total execs
+In deterministic stage, 23038 of 29808 tries hit branch 32131
+det stage: 6 new coverage in 33007 total execs
+det stage: 0 new branches in 33007 total execs
+In havoc stage, 211 of 1536 tries hit branch 32131
+havoc stage: 6 new coverage in 34543 total execs
+havoc stage: 0 new branches in 34543 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001438,sync:afl3,src:001566,+cov: 
+which hit branch 41449 (hit by 3 inputs) 
+while bitflipping, 1992 of 2048 tries hit branch 41449
+while calibrating, 248 of 256 tries hit branch 41449
+calib stage: 0 new coverage in 2304 total execs
+calib stage: 0 new branches in 2304 total execs
+In deterministic stage, 30855 of 32331 tries hit branch 41449
+det stage: 0 new coverage in 34636 total execs
+det stage: 0 new branches in 34636 total execs
+In havoc stage, 233 of 1536 tries hit branch 41449
+havoc stage: 0 new coverage in 36172 total execs
+havoc stage: 0 new branches in 36172 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002159,sync:afl1,src:002381,+cov: 
+which hit branch 55683 (hit by 1 inputs) 
+while bitflipping, 8490 of 9544 tries hit branch 55683
+while calibrating, 697 of 1193 tries hit branch 55683
+calib stage: 8 new coverage in 10802 total execs
+calib stage: 3 new branches in 10802 total execs
+In deterministic stage, 96428 of 168768 tries hit branch 55683
+det stage: 12 new coverage in 179605 total execs
+det stage: 4 new branches in 179605 total execs
+In havoc stage, 124 of 1536 tries hit branch 55683
+havoc stage: 12 new coverage in 181142 total execs
+havoc stage: 4 new branches in 181142 total execs
+Was returning list of size 0
+Upped max exp to 2
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000394,sync:afl3,src:000730,+cov: 
+which hit branch 60343 (hit by 3 inputs) 
+while bitflipping, 819 of 864 tries hit branch 60343
+while calibrating, 101 of 108 tries hit branch 60343
+calib stage: 0 new coverage in 972 total execs
+calib stage: 0 new branches in 972 total execs
+In deterministic stage, 16327 of 17932 tries hit branch 60343
+det stage: 0 new coverage in 18905 total execs
+det stage: 0 new branches in 18905 total execs
+In havoc stage, 418 of 2048 tries hit branch 60343
+havoc stage: 1 new coverage in 20961 total execs
+havoc stage: 0 new branches in 20961 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000598,sync:afl3,src:000798,+cov: 
+which hit branch 40959 (hit by 3 inputs) 
+while bitflipping, 2253 of 2296 tries hit branch 40959
+while calibrating, 281 of 287 tries hit branch 40959
+calib stage: 0 new coverage in 2583 total execs
+calib stage: 0 new branches in 2583 total execs
+In deterministic stage, 9366 of 10734 tries hit branch 40959
+det stage: 0 new coverage in 13317 total execs
+det stage: 0 new branches in 13317 total execs
+In havoc stage, 293 of 768 tries hit branch 40959
+havoc stage: 0 new coverage in 14086 total execs
+havoc stage: 0 new branches in 14086 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000609,sync:afl3,src:000685,+cov: 
+which hit branch 22352 (hit by 3 inputs) 
+while bitflipping, 764 of 832 tries hit branch 22352
+while calibrating, 93 of 104 tries hit branch 22352
+calib stage: 0 new coverage in 936 total execs
+calib stage: 0 new branches in 936 total execs
+In deterministic stage, 14428 of 16580 tries hit branch 22352
+det stage: 1 new coverage in 17524 total execs
+det stage: 0 new branches in 17524 total execs
+In havoc stage, 180 of 1024 tries hit branch 22352
+havoc stage: 1 new coverage in 18548 total execs
+havoc stage: 0 new branches in 18548 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000788,sync:afl3,src:000705,+cov: 
+which hit branch 41873 (hit by 3 inputs) 
+while bitflipping, 430 of 528 tries hit branch 41873
+while calibrating, 54 of 66 tries hit branch 41873
+calib stage: 0 new coverage in 594 total execs
+calib stage: 0 new branches in 594 total execs
+In deterministic stage, 8377 of 11896 tries hit branch 41873
+det stage: 0 new coverage in 12490 total execs
+det stage: 0 new branches in 12490 total execs
+In havoc stage, 34 of 512 tries hit branch 41873
+havoc stage: 0 new coverage in 13002 total execs
+havoc stage: 0 new branches in 13002 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002429,sync:afl2,src:002788,+cov: 
+which hit branch 62959 (hit by 1 inputs) 
+while bitflipping, 4087 of 4768 tries hit branch 62959
+while calibrating, 417 of 596 tries hit branch 62959
+calib stage: 0 new coverage in 5365 total execs
+calib stage: 0 new branches in 5365 total execs
+In deterministic stage, 42151 of 71596 tries hit branch 62959
+det stage: 16 new coverage in 77090 total execs
+det stage: 1 new branches in 77090 total execs
+In havoc stage, 2378 of 24576 tries hit branch 62959
+havoc stage: 26 new coverage in 101746 total execs
+havoc stage: 3 new branches in 101746 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002438,sync:afl1,src:002729,+cov: 
+which hit branch 61893 (hit by 1 inputs) 
+while bitflipping, 4696 of 5824 tries hit branch 61893
+while calibrating, 437 of 728 tries hit branch 61893
+calib stage: 0 new coverage in 6552 total execs
+calib stage: 0 new branches in 6552 total execs
+In deterministic stage, 64128 of 112404 tries hit branch 61893
+det stage: 3 new coverage in 118986 total execs
+det stage: 1 new branches in 118986 total execs
+In havoc stage, 1112 of 12288 tries hit branch 61893
+havoc stage: 5 new coverage in 131291 total execs
+havoc stage: 1 new branches in 131291 total execs
+Was returning list of size 0
+Upped max exp to 2
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002456,src:002429,op:int32,pos:324,val:+256,+cov: 
+which hit branch 32409 (hit by 3 inputs) 
+while bitflipping, 4062 of 4768 tries hit branch 32409
+while calibrating, 413 of 596 tries hit branch 32409
+calib stage: 0 new coverage in 5365 total execs
+calib stage: 0 new branches in 5365 total execs
+In deterministic stage, 42496 of 73003 tries hit branch 32409
+det stage: 1 new coverage in 78377 total execs
+det stage: 0 new branches in 78377 total execs
+In havoc stage, 2264 of 24576 tries hit branch 32409
+havoc stage: 9 new coverage in 103019 total execs
+havoc stage: 0 new branches in 103019 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002467,src:002438,op:int32,pos:174,val:be:+65535,+cov: 
+which hit branch 38437 (hit by 2 inputs) 
+while bitflipping, 1963 of 2240 tries hit branch 38437
+while calibrating, 206 of 280 tries hit branch 38437
+calib stage: 0 new coverage in 2520 total execs
+calib stage: 0 new branches in 2520 total execs
+In deterministic stage, 31425 of 44139 tries hit branch 38437
+det stage: 1 new coverage in 46668 total execs
+det stage: 0 new branches in 46668 total execs
+In havoc stage, 469 of 4096 tries hit branch 38437
+havoc stage: 2 new coverage in 50772 total execs
+havoc stage: 1 new branches in 50772 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002482,src:002467,op:havoc,rep:8,+cov: 
+which hit branch 43319 (hit by 1 inputs) 
+while bitflipping, 1664 of 1888 tries hit branch 43319
+while calibrating, 183 of 236 tries hit branch 43319
+calib stage: 0 new coverage in 2124 total execs
+calib stage: 0 new branches in 2124 total execs
+In deterministic stage, 26817 of 37378 tries hit branch 43319
+det stage: 1 new coverage in 39510 total execs
+det stage: 0 new branches in 39510 total execs
+In havoc stage, 221 of 2048 tries hit branch 43319
+havoc stage: 1 new coverage in 41558 total execs
+havoc stage: 0 new branches in 41558 total execs
+Was returning list of size 0
+Upped max exp to 2
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000815,sync:afl2,src:000847,+cov: 
+which hit branch 57603 (hit by 3 inputs) 
+while bitflipping, 178 of 224 tries hit branch 57603
+while calibrating, 21 of 28 tries hit branch 57603
+calib stage: 0 new coverage in 252 total execs
+calib stage: 0 new branches in 252 total execs
+In deterministic stage, 3119 of 4696 tries hit branch 57603
+det stage: 0 new coverage in 4948 total execs
+det stage: 0 new branches in 4948 total execs
+In havoc stage, 56 of 1024 tries hit branch 57603
+havoc stage: 0 new coverage in 5972 total execs
+havoc stage: 0 new branches in 5972 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001524,sync:afl3,src:001426,+cov: 
+which hit branch 64553 (hit by 3 inputs) 
+while bitflipping, 1128 of 1408 tries hit branch 64553
+while calibrating, 32 of 176 tries hit branch 64553
+calib stage: 0 new coverage in 1584 total execs
+calib stage: 0 new branches in 1584 total execs
+In deterministic stage, 15238 of 30439 tries hit branch 64553
+det stage: 0 new coverage in 32026 total execs
+det stage: 0 new branches in 32026 total execs
+In havoc stage, 54 of 1024 tries hit branch 64553
+havoc stage: 0 new coverage in 33050 total execs
+havoc stage: 0 new branches in 33050 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001577,sync:afl3,src:001383,+cov: 
+which hit branch 53721 (hit by 3 inputs) 
+while bitflipping, 242 of 288 tries hit branch 53721
+while calibrating, 29 of 36 tries hit branch 53721
+calib stage: 0 new coverage in 324 total execs
+calib stage: 0 new branches in 324 total execs
+In deterministic stage, 4345 of 5947 tries hit branch 53721
+det stage: 0 new coverage in 6271 total execs
+det stage: 0 new branches in 6271 total execs
+In havoc stage, 63 of 768 tries hit branch 53721
+havoc stage: 0 new coverage in 7039 total execs
+havoc stage: 0 new branches in 7039 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001616,sync:afl3,src:001556,+cov: 
+which hit branch 62735 (hit by 3 inputs) 
+while bitflipping, 146 of 192 tries hit branch 62735
+while calibrating, 15 of 24 tries hit branch 62735
+calib stage: 0 new coverage in 217 total execs
+calib stage: 0 new branches in 217 total execs
+In deterministic stage, 2171 of 3728 tries hit branch 62735
+det stage: 0 new coverage in 3945 total execs
+det stage: 0 new branches in 3945 total execs
+In havoc stage, 14 of 512 tries hit branch 62735
+havoc stage: 0 new coverage in 4457 total execs
+havoc stage: 0 new branches in 4457 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001683,sync:afl3,src:001685,+cov: 
+which hit branch 56137 (hit by 3 inputs) 
+while bitflipping, 372 of 464 tries hit branch 56137
+while calibrating, 46 of 58 tries hit branch 56137
+calib stage: 0 new coverage in 522 total execs
+calib stage: 0 new branches in 522 total execs
+In deterministic stage, 7610 of 10354 tries hit branch 56137
+det stage: 0 new coverage in 10876 total execs
+det stage: 0 new branches in 10876 total execs
+In havoc stage, 62 of 1024 tries hit branch 56137
+havoc stage: 0 new coverage in 11900 total execs
+havoc stage: 0 new branches in 11900 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002313,sync:afl3,src:002524,+cov: 
+which hit branch 57065 (hit by 3 inputs) 
+while bitflipping, 5580 of 6496 tries hit branch 57065
+while calibrating, 343 of 812 tries hit branch 57065
+calib stage: 0 new coverage in 7308 total execs
+calib stage: 0 new branches in 7308 total execs
+In havoc stage, 41019 of 74958 tries hit branch 57065
+havoc stage: 0 new coverage in 82267 total execs
+havoc stage: 0 new branches in 82267 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002314,sync:afl3,src:002711,+cov: 
+which hit branch 15804 (hit by 3 inputs) 
+while bitflipping, 1742 of 1920 tries hit branch 15804
+while calibrating, 198 of 240 tries hit branch 15804
+calib stage: 0 new coverage in 2160 total execs
+calib stage: 0 new branches in 2160 total execs
+In deterministic stage, 16479 of 25362 tries hit branch 15804
+det stage: 0 new coverage in 27522 total execs
+det stage: 0 new branches in 27522 total execs
+In havoc stage, 185 of 2048 tries hit branch 15804
+havoc stage: 0 new coverage in 29570 total execs
+havoc stage: 0 new branches in 29570 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002375,sync:afl3,src:002522,+cov: 
+which hit branch 60186 (hit by 3 inputs) 
+while bitflipping, 40 of 64 tries hit branch 60186
+while calibrating, 5 of 8 tries hit branch 60186
+calib stage: 0 new coverage in 72 total execs
+calib stage: 0 new branches in 72 total execs
+In deterministic stage, 714 of 1190 tries hit branch 60186
+det stage: 0 new coverage in 1262 total execs
+det stage: 0 new branches in 1262 total execs
+In havoc stage, 20 of 512 tries hit branch 60186
+havoc stage: 0 new coverage in 1774 total execs
+havoc stage: 0 new branches in 1774 total execs
+Was returning list of size 0
+Upped max exp to 3
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000355,src:000000,op:havoc,rep:16,+cov: 
+which hit branch 64490 (hit by 5 inputs) 
+while bitflipping, 1811 of 1920 tries hit branch 64490
+while calibrating, 224 of 240 tries hit branch 64490
+calib stage: 0 new coverage in 2160 total execs
+calib stage: 0 new branches in 2160 total execs
+In deterministic stage, 12539 of 16153 tries hit branch 64490
+det stage: 0 new coverage in 18313 total execs
+det stage: 0 new branches in 18313 total execs
+In havoc stage, 366 of 2048 tries hit branch 64490
+havoc stage: 1 new coverage in 20369 total execs
+havoc stage: 0 new branches in 20369 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000490,sync:afl3,src:000291,+cov: 
+which hit branch 321 (hit by 4 inputs) 
+while bitflipping, 1038 of 1120 tries hit branch 321
+while calibrating, 125 of 140 tries hit branch 321
+calib stage: 0 new coverage in 1260 total execs
+calib stage: 0 new branches in 1260 total execs
+In deterministic stage, 9366 of 12529 tries hit branch 321
+det stage: 0 new coverage in 13789 total execs
+det stage: 0 new branches in 13789 total execs
+In havoc stage, 141 of 1024 tries hit branch 321
+havoc stage: 0 new coverage in 14813 total execs
+havoc stage: 0 new branches in 14813 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000622,sync:afl3,src:000592,+cov: 
+which hit branch 24612 (hit by 7 inputs) 
+while bitflipping, 2329 of 2400 tries hit branch 24612
+while calibrating, 290 of 300 tries hit branch 24612
+calib stage: 0 new coverage in 2700 total execs
+calib stage: 0 new branches in 2700 total execs
+In deterministic stage, 9298 of 11876 tries hit branch 24612
+det stage: 0 new coverage in 14576 total execs
+det stage: 0 new branches in 14576 total execs
+In havoc stage, 315 of 1024 tries hit branch 24612
+havoc stage: 0 new coverage in 15600 total execs
+havoc stage: 0 new branches in 15600 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000677,sync:afl3,src:000879,+cov: 
+which hit branch 22539 (hit by 4 inputs) 
+while bitflipping, 942 of 1024 tries hit branch 22539
+while calibrating, 101 of 128 tries hit branch 22539
+calib stage: 0 new coverage in 1152 total execs
+calib stage: 0 new branches in 1152 total execs
+In deterministic stage, 7249 of 10630 tries hit branch 22539
+det stage: 0 new coverage in 11782 total execs
+det stage: 0 new branches in 11782 total execs
+In havoc stage, 149 of 1024 tries hit branch 22539
+havoc stage: 0 new coverage in 12806 total execs
+havoc stage: 0 new branches in 12806 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000768,sync:afl3,src:000377,+cov: 
+which hit branch 52381 (hit by 4 inputs) 
+while bitflipping, 1643 of 1696 tries hit branch 52381
+while calibrating, 204 of 212 tries hit branch 52381
+calib stage: 0 new coverage in 1908 total execs
+calib stage: 0 new branches in 1908 total execs
+In deterministic stage, 14153 of 15835 tries hit branch 52381
+det stage: 1 new coverage in 17751 total execs
+det stage: 0 new branches in 17751 total execs
+In havoc stage, 222 of 1024 tries hit branch 52381
+havoc stage: 1 new coverage in 18775 total execs
+havoc stage: 0 new branches in 18775 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001065,src:000863,op:havoc,rep:4,+cov: 
+which hit branch 45000 (hit by 7 inputs) 
+while bitflipping, 676 of 752 tries hit branch 45000
+while calibrating, 81 of 94 tries hit branch 45000
+calib stage: 0 new coverage in 846 total execs
+calib stage: 0 new branches in 846 total execs
+In deterministic stage, 10216 of 14977 tries hit branch 45000
+det stage: 0 new coverage in 15823 total execs
+det stage: 0 new branches in 15823 total execs
+In havoc stage, 73 of 1024 tries hit branch 45000
+havoc stage: 0 new coverage in 16847 total execs
+havoc stage: 0 new branches in 16847 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001696,sync:afl3,src:000991,+cov: 
+which hit branch 9334 (hit by 6 inputs) 
+while bitflipping, 1152 of 1216 tries hit branch 9334
+while calibrating, 140 of 152 tries hit branch 9334
+calib stage: 0 new coverage in 1368 total execs
+calib stage: 0 new branches in 1368 total execs
+In deterministic stage, 8846 of 11634 tries hit branch 9334
+det stage: 0 new coverage in 13002 total execs
+det stage: 0 new branches in 13002 total execs
+In havoc stage, 110 of 512 tries hit branch 9334
+havoc stage: 0 new coverage in 13514 total execs
+havoc stage: 0 new branches in 13514 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001827,sync:afl3,src:001528,+cov: 
+which hit branch 14245 (hit by 6 inputs) 
+while bitflipping, 520 of 576 tries hit branch 14245
+while calibrating, 63 of 72 tries hit branch 14245
+calib stage: 0 new coverage in 648 total execs
+calib stage: 0 new branches in 648 total execs
+In deterministic stage, 7698 of 11806 tries hit branch 14245
+det stage: 0 new coverage in 12454 total execs
+det stage: 0 new branches in 12454 total execs
+In havoc stage, 63 of 768 tries hit branch 14245
+havoc stage: 0 new coverage in 13222 total execs
+havoc stage: 0 new branches in 13222 total execs
+Was returning list of size 0
+Upped max exp to 4
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001828,sync:afl3,src:001107,+cov: 
+which hit branch 53702 (hit by 11 inputs) 
+while bitflipping, 350 of 480 tries hit branch 53702
+while calibrating, 39 of 60 tries hit branch 53702
+calib stage: 0 new coverage in 540 total execs
+calib stage: 0 new branches in 540 total execs
+In deterministic stage, 4848 of 10458 tries hit branch 53702
+det stage: 0 new coverage in 10998 total execs
+det stage: 0 new branches in 10998 total execs
+In havoc stage, 30 of 768 tries hit branch 53702
+havoc stage: 0 new coverage in 11766 total execs
+havoc stage: 0 new branches in 11766 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001830,sync:afl3,src:001979: 
+which hit branch 51168 (hit by 15 inputs) 
+while bitflipping, 4378 of 4480 tries hit branch 51168
+while calibrating, 544 of 560 tries hit branch 51168
+calib stage: 0 new coverage in 5040 total execs
+calib stage: 0 new branches in 5040 total execs
+In deterministic stage, 23088 of 27055 tries hit branch 51168
+det stage: 0 new coverage in 32095 total execs
+det stage: 0 new branches in 32095 total execs
+In havoc stage, 293 of 1024 tries hit branch 51168
+havoc stage: 0 new coverage in 33119 total execs
+havoc stage: 0 new branches in 33119 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001859,sync:afl3,src:002028,+cov: 
+which hit branch 50270 (hit by 11 inputs) 
+while bitflipping, 1662 of 1752 tries hit branch 50270
+while calibrating, 206 of 219 tries hit branch 50270
+calib stage: 0 new coverage in 1971 total execs
+calib stage: 0 new branches in 1971 total execs
+In deterministic stage, 8182 of 11117 tries hit branch 50270
+det stage: 0 new coverage in 13089 total execs
+det stage: 0 new branches in 13089 total execs
+In havoc stage, 234 of 1024 tries hit branch 50270
+havoc stage: 0 new coverage in 14113 total execs
+havoc stage: 0 new branches in 14113 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001999,sync:afl3,src:002461: 
+which hit branch 48978 (hit by 15 inputs) 
+while bitflipping, 827 of 896 tries hit branch 48978
+while calibrating, 103 of 112 tries hit branch 48978
+calib stage: 0 new coverage in 1009 total execs
+calib stage: 0 new branches in 1009 total execs
+In deterministic stage, 16203 of 18807 tries hit branch 48978
+det stage: 0 new coverage in 19816 total execs
+det stage: 0 new branches in 19816 total execs
+In havoc stage, 143 of 1024 tries hit branch 48978
+havoc stage: 0 new coverage in 20840 total execs
+havoc stage: 0 new branches in 20840 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002027,sync:afl3,src:002158,+cov: 
+which hit branch 32179 (hit by 14 inputs) 
+while bitflipping, 1006 of 1184 tries hit branch 32179
+while calibrating, 47 of 148 tries hit branch 32179
+calib stage: 0 new coverage in 1332 total execs
+calib stage: 0 new branches in 1332 total execs
+In deterministic stage, 13030 of 23805 tries hit branch 32179
+det stage: 0 new coverage in 25138 total execs
+det stage: 0 new branches in 25138 total execs
+In havoc stage, 69 of 1024 tries hit branch 32179
+havoc stage: 0 new coverage in 26162 total execs
+havoc stage: 0 new branches in 26162 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002101,sync:afl3,src:002308: 
+which hit branch 40057 (hit by 15 inputs) 
+while bitflipping, 8063 of 8208 tries hit branch 40057
+while calibrating, 1006 of 1026 tries hit branch 40057
+calib stage: 0 new coverage in 9235 total execs
+calib stage: 0 new branches in 9235 total execs
+In deterministic stage, 44515 of 48261 tries hit branch 40057
+det stage: 0 new coverage in 57496 total execs
+det stage: 0 new branches in 57496 total execs
+In havoc stage, 228 of 768 tries hit branch 40057
+havoc stage: 0 new coverage in 58264 total execs
+havoc stage: 0 new branches in 58264 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002114,sync:afl3,src:002399: 
+which hit branch 34686 (hit by 15 inputs) 
+while bitflipping, 5438 of 5632 tries hit branch 34686
+while calibrating, 671 of 704 tries hit branch 34686
+calib stage: 0 new coverage in 6338 total execs
+calib stage: 0 new branches in 6338 total execs
+In deterministic stage, 106210 of 115452 tries hit branch 34686
+det stage: 0 new coverage in 121791 total execs
+det stage: 0 new branches in 121791 total execs
+In havoc stage, 229 of 1024 tries hit branch 34686
+havoc stage: 0 new coverage in 122815 total execs
+havoc stage: 0 new branches in 122815 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002183,sync:afl3,src:002683,+cov: 
+which hit branch 51863 (hit by 15 inputs) 
+while bitflipping, 3749 of 4000 tries hit branch 51863
+while calibrating, 449 of 500 tries hit branch 51863
+calib stage: 0 new coverage in 4500 total execs
+calib stage: 0 new branches in 4500 total execs
+In deterministic stage, 20283 of 30827 tries hit branch 51863
+det stage: 0 new coverage in 35327 total execs
+det stage: 0 new branches in 35327 total execs
+In havoc stage, 502 of 3072 tries hit branch 51863
+havoc stage: 0 new coverage in 38399 total execs
+havoc stage: 0 new branches in 38399 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002220,sync:afl3,src:002516,+cov: 
+which hit branch 11169 (hit by 11 inputs) 
+while bitflipping, 9521 of 10496 tries hit branch 11169
+while calibrating, 787 of 1312 tries hit branch 11169
+calib stage: 0 new coverage in 11808 total execs
+calib stage: 0 new branches in 11808 total execs
+In deterministic stage, 138997 of 214275 tries hit branch 11169
+det stage: 0 new coverage in 226085 total execs
+det stage: 0 new branches in 226085 total execs
+In havoc stage, 278 of 3072 tries hit branch 11169
+havoc stage: 0 new coverage in 229157 total execs
+havoc stage: 0 new branches in 229157 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002409,sync:afl3,src:002535: 
+which hit branch 48864 (hit by 13 inputs) 
+while bitflipping, 510 of 576 tries hit branch 48864
+while calibrating, 61 of 72 tries hit branch 48864
+calib stage: 0 new coverage in 648 total execs
+calib stage: 0 new branches in 648 total execs
+In deterministic stage, 11208 of 13327 tries hit branch 48864
+det stage: 0 new coverage in 13975 total execs
+det stage: 0 new branches in 13975 total execs
+In havoc stage, 286 of 2048 tries hit branch 48864
+havoc stage: 0 new coverage in 16023 total execs
+havoc stage: 0 new branches in 16023 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002418,sync:afl3,src:002600: 
+which hit branch 56570 (hit by 15 inputs) 
+while bitflipping, 47311 of 47360 tries hit branch 56570
+while calibrating, 5913 of 5920 tries hit branch 56570
+calib stage: 0 new coverage in 53280 total execs
+calib stage: 0 new branches in 53280 total execs
+In deterministic stage, 167080 of 168491 tries hit branch 56570
+det stage: 0 new coverage in 221772 total execs
+det stage: 0 new branches in 221772 total execs
+In havoc stage, 1804 of 2048 tries hit branch 56570
+havoc stage: 0 new coverage in 223821 total execs
+havoc stage: 0 new branches in 223821 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002590,sync:afl3,src:002906,+cov: 
+which hit branch 7660 (hit by 12 inputs) 
+while bitflipping, 2313 of 2656 tries hit branch 7660
+while calibrating, 243 of 332 tries hit branch 7660
+calib stage: 0 new coverage in 2988 total execs
+calib stage: 0 new branches in 2988 total execs
+In deterministic stage, 22757 of 39779 tries hit branch 7660
+det stage: 0 new coverage in 42767 total execs
+det stage: 0 new branches in 42767 total execs
+In havoc stage, 193 of 3072 tries hit branch 7660
+havoc stage: 0 new coverage in 45840 total execs
+havoc stage: 0 new branches in 45840 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002739,sync:afl3,src:003137,+cov: 
+which hit branch 51868 (hit by 9 inputs) 
+while bitflipping, 17288 of 18528 tries hit branch 51868
+while calibrating, 2109 of 2316 tries hit branch 51868
+calib stage: 1 new coverage in 20854 total execs
+calib stage: 0 new branches in 20854 total execs
+In deterministic stage, 248047 of 304317 tries hit branch 51868
+det stage: 1 new coverage in 325177 total execs
+det stage: 0 new branches in 325177 total execs
+In havoc stage, 460 of 2293 tries hit branch 51868
+havoc stage: 1 new coverage in 327470 total execs
+havoc stage: 0 new branches in 327470 total execs
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000356,src:000000,op:havoc,rep:32,+cov: 
+which hit branch 64924 (hit by 12 inputs) 
+while bitflipping, 71 of 96 tries hit branch 64924
+while calibrating, 8 of 12 tries hit branch 64924
+calib stage: 0 new coverage in 108 total execs
+calib stage: 0 new branches in 108 total execs
+In deterministic stage, 1061 of 1714 tries hit branch 64924
+det stage: 0 new coverage in 1822 total execs
+det stage: 0 new branches in 1822 total execs
+In havoc stage, 19 of 256 tries hit branch 64924
+havoc stage: 0 new coverage in 2078 total execs
+havoc stage: 0 new branches in 2078 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000612,sync:afl3,src:000875,+cov: 
+which hit branch 36339 (hit by 12 inputs) 
+while bitflipping, 1755 of 1864 tries hit branch 36339
+while calibrating, 200 of 233 tries hit branch 36339
+calib stage: 0 new coverage in 2097 total execs
+calib stage: 0 new branches in 2097 total execs
+In deterministic stage, 33588 of 38221 tries hit branch 36339
+det stage: 0 new coverage in 40318 total execs
+det stage: 0 new branches in 40318 total execs
+In havoc stage, 210 of 1024 tries hit branch 36339
+havoc stage: 0 new coverage in 41342 total execs
+havoc stage: 0 new branches in 41342 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001404,sync:afl3,src:001581,+cov: 
+which hit branch 43507 (hit by 8 inputs) 
+while bitflipping, 1236 of 1280 tries hit branch 43507
+while calibrating, 154 of 160 tries hit branch 43507
+calib stage: 0 new coverage in 1440 total execs
+calib stage: 0 new branches in 1440 total execs
+In deterministic stage, 7134 of 8447 tries hit branch 43507
+det stage: 1 new coverage in 9895 total execs
+det stage: 0 new branches in 9895 total execs
+In havoc stage, 286 of 1024 tries hit branch 43507
+havoc stage: 1 new coverage in 10919 total execs
+havoc stage: 0 new branches in 10919 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001647,sync:afl3,src:001475,+cov: 
+which hit branch 61768 (hit by 8 inputs) 
+while bitflipping, 340 of 416 tries hit branch 61768
+while calibrating, 36 of 52 tries hit branch 61768
+calib stage: 0 new coverage in 469 total execs
+calib stage: 0 new branches in 469 total execs
+In deterministic stage, 4598 of 8963 tries hit branch 61768
+det stage: 0 new coverage in 9432 total execs
+det stage: 0 new branches in 9432 total execs
+In havoc stage, 20 of 512 tries hit branch 61768
+havoc stage: 0 new coverage in 9944 total execs
+havoc stage: 0 new branches in 9944 total execs
+Was returning list of size 0
+Upped max exp to 5
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001661,sync:afl3,src:002108: 
+which hit branch 54045 (hit by 17 inputs) 
+while bitflipping, 487 of 640 tries hit branch 54045
+while calibrating, 53 of 80 tries hit branch 54045
+calib stage: 0 new coverage in 720 total execs
+calib stage: 0 new branches in 720 total execs
+In deterministic stage, 8576 of 14573 tries hit branch 54045
+det stage: 0 new coverage in 15293 total execs
+det stage: 0 new branches in 15293 total execs
+In havoc stage, 91 of 1536 tries hit branch 54045
+havoc stage: 0 new coverage in 16829 total execs
+havoc stage: 0 new branches in 16829 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001765,sync:afl3,src:002132: 
+which hit branch 24648 (hit by 31 inputs) 
+while bitflipping, 1508 of 2104 tries hit branch 24648
+while calibrating, 187 of 263 tries hit branch 24648
+calib stage: 0 new coverage in 2367 total execs
+calib stage: 0 new branches in 2367 total execs
+In deterministic stage, 21052 of 53500 tries hit branch 24648
+det stage: 0 new coverage in 55867 total execs
+det stage: 0 new branches in 55867 total execs
+In havoc stage, 117 of 768 tries hit branch 24648
+havoc stage: 0 new coverage in 56635 total execs
+havoc stage: 0 new branches in 56635 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001824,sync:afl3,src:001328,+cov: 
+which hit branch 44534 (hit by 16 inputs) 
+while bitflipping, 988 of 1032 tries hit branch 44534
+while calibrating, 122 of 129 tries hit branch 44534
+calib stage: 0 new coverage in 1161 total execs
+calib stage: 0 new branches in 1161 total execs
+In deterministic stage, 10251 of 11799 tries hit branch 44534
+det stage: 0 new coverage in 12961 total execs
+det stage: 0 new branches in 12961 total execs
+In havoc stage, 262 of 1024 tries hit branch 44534
+havoc stage: 0 new coverage in 13985 total execs
+havoc stage: 0 new branches in 13985 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002200,sync:afl3,src:002723,+cov: 
+which hit branch 26982 (hit by 22 inputs) 
+while bitflipping, 2271 of 2616 tries hit branch 26982
+while calibrating, 253 of 327 tries hit branch 26982
+calib stage: 0 new coverage in 2943 total execs
+calib stage: 0 new branches in 2943 total execs
+In deterministic stage, 32370 of 51220 tries hit branch 26982
+det stage: 0 new coverage in 54164 total execs
+det stage: 0 new branches in 54164 total execs
+In havoc stage, 233 of 3072 tries hit branch 26982
+havoc stage: 0 new coverage in 57236 total execs
+havoc stage: 0 new branches in 57236 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002241,sync:afl3,src:002497,+cov: 
+which hit branch 28118 (hit by 17 inputs) 
+while bitflipping, 7658 of 8512 tries hit branch 28118
+while calibrating, 647 of 1064 tries hit branch 28118
+calib stage: 0 new coverage in 9576 total execs
+calib stage: 0 new branches in 9576 total execs
+In deterministic stage, 115659 of 175928 tries hit branch 28118
+det stage: 1 new coverage in 185514 total execs
+det stage: 0 new branches in 185514 total execs
+In havoc stage, 296 of 3072 tries hit branch 28118
+havoc stage: 1 new coverage in 188586 total execs
+havoc stage: 0 new branches in 188586 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002247,sync:afl3,src:002541: 
+which hit branch 216 (hit by 31 inputs) 
+while bitflipping, 1626 of 1760 tries hit branch 216
+while calibrating, 197 of 220 tries hit branch 216
+calib stage: 0 new coverage in 1980 total execs
+calib stage: 0 new branches in 1980 total execs
+In deterministic stage, 22387 of 28066 tries hit branch 216
+det stage: 0 new coverage in 30047 total execs
+det stage: 0 new branches in 30047 total execs
+In havoc stage, 270 of 3072 tries hit branch 216
+havoc stage: 0 new coverage in 33119 total execs
+havoc stage: 0 new branches in 33119 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002518,sync:afl3,src:003150,+cov: 
+which hit branch 10153 (hit by 21 inputs) 
+while bitflipping, 419 of 512 tries hit branch 10153
+while calibrating, 46 of 64 tries hit branch 10153
+calib stage: 0 new coverage in 576 total execs
+calib stage: 0 new branches in 576 total execs
+In deterministic stage, 6740 of 10257 tries hit branch 10153
+det stage: 0 new coverage in 10833 total execs
+det stage: 0 new branches in 10833 total execs
+In havoc stage, 156 of 2048 tries hit branch 10153
+havoc stage: 0 new coverage in 12881 total execs
+havoc stage: 0 new branches in 12881 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002565,sync:afl3,src:003139,+cov: 
+which hit branch 51298 (hit by 29 inputs) 
+while bitflipping, 2386 of 2592 tries hit branch 51298
+while calibrating, 287 of 324 tries hit branch 51298
+calib stage: 0 new coverage in 2916 total execs
+calib stage: 0 new branches in 2916 total execs
+In deterministic stage, 37196 of 46990 tries hit branch 51298
+det stage: 0 new coverage in 49906 total execs
+det stage: 0 new branches in 49906 total execs
+In havoc stage, 322 of 2048 tries hit branch 51298
+havoc stage: 0 new coverage in 51954 total execs
+havoc stage: 0 new branches in 51954 total execs
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000147,src:000000,op:arith8,pos:52,val:+19,+cov: 
+which hit branch 33494 (hit by 20 inputs) 
+while bitflipping, 2663 of 2752 tries hit branch 33494
+while calibrating, 329 of 344 tries hit branch 33494
+calib stage: 0 new coverage in 3096 total execs
+calib stage: 0 new branches in 3096 total execs
+In deterministic stage, 22542 of 25683 tries hit branch 33494
+det stage: 1 new coverage in 28787 total execs
+det stage: 0 new branches in 28787 total execs
+In havoc stage, 219 of 1024 tries hit branch 33494
+havoc stage: 1 new coverage in 29811 total execs
+havoc stage: 0 new branches in 29811 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000156,src:000000,op:arith8,pos:282,val:+9,+cov: 
+which hit branch 46116 (hit by 19 inputs) 
+while bitflipping, 2784 of 2912 tries hit branch 46116
+while calibrating, 345 of 364 tries hit branch 46116
+calib stage: 0 new coverage in 3276 total execs
+calib stage: 0 new branches in 3276 total execs
+In deterministic stage, 24331 of 28791 tries hit branch 46116
+det stage: 0 new coverage in 32067 total execs
+det stage: 0 new branches in 32067 total execs
+In havoc stage, 137 of 1024 tries hit branch 46116
+havoc stage: 0 new coverage in 33091 total execs
+havoc stage: 0 new branches in 33091 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000961,src:000804,op:havoc,rep:64,+cov: 
+which hit branch 56331 (hit by 21 inputs) 
+while bitflipping, 957 of 1184 tries hit branch 56331
+while calibrating, 25 of 148 tries hit branch 56331
+calib stage: 0 new coverage in 1333 total execs
+calib stage: 0 new branches in 1333 total execs
+In deterministic stage, 13026 of 25237 tries hit branch 56331
+det stage: 0 new coverage in 26571 total execs
+det stage: 0 new branches in 26571 total execs
+In havoc stage, 30 of 768 tries hit branch 56331
+havoc stage: 0 new coverage in 27339 total execs
+havoc stage: 0 new branches in 27339 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000984,src:000804,op:havoc,rep:4,+cov: 
+which hit branch 57714 (hit by 21 inputs) 
+while bitflipping, 1228 of 1376 tries hit branch 57714
+while calibrating, 140 of 172 tries hit branch 57714
+calib stage: 0 new coverage in 1548 total execs
+calib stage: 0 new branches in 1548 total execs
+In havoc stage, 13375 of 17824 tries hit branch 57714
+havoc stage: 0 new coverage in 19373 total execs
+havoc stage: 0 new branches in 19373 total execs
+Was returning list of size 0
+Upped max exp to 6
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001003,src:000804,op:havoc,rep:16: 
+which hit branch 47389 (hit by 49 inputs) 
+while bitflipping, 273 of 352 tries hit branch 47389
+while calibrating, 31 of 44 tries hit branch 47389
+calib stage: 0 new coverage in 396 total execs
+calib stage: 0 new branches in 396 total execs
+In deterministic stage, 4411 of 7935 tries hit branch 47389
+det stage: 0 new coverage in 8331 total execs
+det stage: 0 new branches in 8331 total execs
+In havoc stage, 50 of 1024 tries hit branch 47389
+havoc stage: 0 new coverage in 9355 total execs
+havoc stage: 0 new branches in 9355 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001130,src:000889,op:havoc,rep:128: 
+which hit branch 25467 (hit by 36 inputs) 
+while bitflipping, 231 of 288 tries hit branch 25467
+while calibrating, 28 of 36 tries hit branch 25467
+calib stage: 0 new coverage in 324 total execs
+calib stage: 0 new branches in 324 total execs
+In deterministic stage, 5015 of 6722 tries hit branch 25467
+det stage: 0 new coverage in 7046 total execs
+det stage: 0 new branches in 7046 total execs
+In havoc stage, 52 of 768 tries hit branch 25467
+havoc stage: 0 new coverage in 7814 total execs
+havoc stage: 0 new branches in 7814 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001146,sync:afl3,src:001163,+cov: 
+which hit branch 22500 (hit by 63 inputs) 
+while bitflipping, 1528 of 1632 tries hit branch 22500
+while calibrating, 172 of 204 tries hit branch 22500
+calib stage: 0 new coverage in 1836 total execs
+calib stage: 0 new branches in 1836 total execs
+In deterministic stage, 9095 of 13638 tries hit branch 22500
+det stage: 0 new coverage in 15474 total execs
+det stage: 0 new branches in 15474 total execs
+In havoc stage, 180 of 1024 tries hit branch 22500
+havoc stage: 0 new coverage in 16498 total execs
+havoc stage: 0 new branches in 16498 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001153,sync:afl3,src:001713: 
+which hit branch 61175 (hit by 47 inputs) 
+while bitflipping, 748 of 824 tries hit branch 61175
+while calibrating, 91 of 103 tries hit branch 61175
+calib stage: 0 new coverage in 927 total execs
+calib stage: 0 new branches in 927 total execs
+In deterministic stage, 13835 of 16538 tries hit branch 61175
+det stage: 0 new coverage in 17465 total execs
+det stage: 0 new branches in 17465 total execs
+In havoc stage, 126 of 1024 tries hit branch 61175
+havoc stage: 0 new coverage in 18489 total execs
+havoc stage: 0 new branches in 18489 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001166,sync:afl3,src:001990,+cov: 
+which hit branch 46028 (hit by 40 inputs) 
+while bitflipping, 1612 of 1696 tries hit branch 46028
+while calibrating, 197 of 212 tries hit branch 46028
+calib stage: 0 new coverage in 1908 total execs
+calib stage: 0 new branches in 1908 total execs
+In deterministic stage, 11618 of 15567 tries hit branch 46028
+det stage: 0 new coverage in 17475 total execs
+det stage: 0 new branches in 17475 total execs
+In havoc stage, 190 of 1024 tries hit branch 46028
+havoc stage: 0 new coverage in 18499 total execs
+havoc stage: 0 new branches in 18499 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001174,sync:afl3,src:002129,+cov: 
+which hit branch 60608 (hit by 63 inputs) 
+while bitflipping, 7372 of 8384 tries hit branch 60608
+while calibrating, 601 of 1048 tries hit branch 60608
+calib stage: 0 new coverage in 9432 total execs
+calib stage: 0 new branches in 9432 total execs
+In deterministic stage, 85460 of 150251 tries hit branch 60608
+det stage: 0 new coverage in 159684 total execs
+det stage: 0 new branches in 159684 total execs
+In havoc stage, 97 of 1536 tries hit branch 60608
+havoc stage: 0 new coverage in 161220 total execs
+havoc stage: 0 new branches in 161220 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001176,sync:afl3,src:001437,+cov: 
+which hit branch 15810 (hit by 41 inputs) 
+while bitflipping, 11127 of 12320 tries hit branch 15810
+while calibrating, 820 of 1540 tries hit branch 15810
+calib stage: 0 new coverage in 13860 total execs
+calib stage: 0 new branches in 13860 total execs
+In deterministic stage, 182906 of 243753 tries hit branch 15810
+det stage: 0 new coverage in 257618 total execs
+det stage: 0 new branches in 257618 total execs
+In havoc stage, 148 of 1024 tries hit branch 15810
+havoc stage: 0 new coverage in 258642 total execs
+havoc stage: 0 new branches in 258642 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001191,sync:afl3,src:001603,+cov: 
+which hit branch 64634 (hit by 62 inputs) 
+while bitflipping, 1698 of 1760 tries hit branch 64634
+while calibrating, 210 of 220 tries hit branch 64634
+calib stage: 0 new coverage in 1980 total execs
+calib stage: 0 new branches in 1980 total execs
+In deterministic stage, 15041 of 17517 tries hit branch 64634
+det stage: 0 new coverage in 19497 total execs
+det stage: 0 new branches in 19497 total execs
+In havoc stage, 93 of 512 tries hit branch 64634
+havoc stage: 0 new coverage in 20009 total execs
+havoc stage: 0 new branches in 20009 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001224,sync:afl3,src:001368,+cov: 
+which hit branch 49853 (hit by 50 inputs) 
+while bitflipping, 2222 of 2304 tries hit branch 49853
+while calibrating, 276 of 288 tries hit branch 49853
+calib stage: 0 new coverage in 2592 total execs
+calib stage: 0 new branches in 2592 total execs
+In deterministic stage, 19569 of 22743 tries hit branch 49853
+det stage: 0 new coverage in 25335 total execs
+det stage: 0 new branches in 25335 total execs
+In havoc stage, 128 of 1024 tries hit branch 49853
+havoc stage: 0 new coverage in 26359 total execs
+havoc stage: 0 new branches in 26359 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001256,sync:afl3,src:001499: 
+which hit branch 32245 (hit by 55 inputs) 
+while bitflipping, 10421 of 10848 tries hit branch 32245
+while calibrating, 1224 of 1356 tries hit branch 32245
+calib stage: 0 new coverage in 12204 total execs
+calib stage: 0 new branches in 12204 total execs
+In deterministic stage, 172936 of 191641 tries hit branch 32245
+det stage: 0 new coverage in 203845 total execs
+det stage: 0 new branches in 203845 total execs
+In havoc stage, 172 of 1024 tries hit branch 32245
+havoc stage: 0 new coverage in 204870 total execs
+havoc stage: 0 new branches in 204870 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001263,sync:afl3,src:002087,+cov: 
+which hit branch 36065 (hit by 49 inputs) 
+while bitflipping, 10618 of 11128 tries hit branch 36065
+while calibrating, 1285 of 1391 tries hit branch 36065
+calib stage: 0 new coverage in 12520 total execs
+calib stage: 0 new branches in 12520 total execs
+In deterministic stage, 151240 of 181036 tries hit branch 36065
+det stage: 0 new coverage in 193557 total execs
+det stage: 0 new branches in 193557 total execs
+In havoc stage, 209 of 768 tries hit branch 36065
+havoc stage: 0 new coverage in 194325 total execs
+havoc stage: 0 new branches in 194325 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001297,sync:afl3,src:002085,+cov: 
+which hit branch 5249 (hit by 39 inputs) 
+while bitflipping, 1578 of 1696 tries hit branch 5249
+while calibrating, 170 of 212 tries hit branch 5249
+calib stage: 0 new coverage in 1908 total execs
+calib stage: 0 new branches in 1908 total execs
+In deterministic stage, 11640 of 19009 tries hit branch 5249
+det stage: 0 new coverage in 20917 total execs
+det stage: 0 new branches in 20917 total execs
+In havoc stage, 236 of 1536 tries hit branch 5249
+havoc stage: 0 new coverage in 22453 total execs
+havoc stage: 0 new branches in 22453 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:003262,sync:afl3,src:003718,+cov: 
+which hit branch 62162 (hit by 3 inputs) 
+while bitflipping, 7051 of 7264 tries hit branch 62162
+while calibrating, 839 of 908 tries hit branch 62162
+calib stage: 0 new coverage in 8172 total execs
+calib stage: 0 new branches in 8172 total execs
+In deterministic stage, 30958 of 43404 tries hit branch 62162
+det stage: 2 new coverage in 51592 total execs
+det stage: 0 new branches in 51592 total execs
+In havoc stage, 7249 of 32768 tries hit branch 62162
+havoc stage: 6 new coverage in 84393 total execs
+havoc stage: 0 new branches in 84393 total execs
+Was returning list of size 0
+Upped max exp to 6
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000095,src:000000,op:flip2,pos:51,+cov: 
+which hit branch 16384 (hit by 61 inputs) 
+while bitflipping, 2815 of 2912 tries hit branch 16384
+while calibrating, 350 of 364 tries hit branch 16384
+calib stage: 0 new coverage in 3276 total execs
+calib stage: 0 new branches in 3276 total execs
+In deterministic stage, 22054 of 25488 tries hit branch 16384
+det stage: 0 new coverage in 28764 total execs
+det stage: 0 new branches in 28764 total execs
+In havoc stage, 255 of 1024 tries hit branch 16384
+havoc stage: 0 new coverage in 29788 total execs
+havoc stage: 0 new branches in 29788 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000262,src:000000,op:havoc,rep:32,+cov: 
+which hit branch 58267 (hit by 50 inputs) 
+while bitflipping, 703 of 768 tries hit branch 58267
+while calibrating, 86 of 96 tries hit branch 58267
+calib stage: 0 new coverage in 864 total execs
+calib stage: 0 new branches in 864 total execs
+In deterministic stage, 13251 of 15612 tries hit branch 58267
+det stage: 0 new coverage in 16476 total execs
+det stage: 0 new branches in 16476 total execs
+In havoc stage, 83 of 768 tries hit branch 58267
+havoc stage: 0 new coverage in 17244 total execs
+havoc stage: 0 new branches in 17244 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000446,sync:afl3,src:000410,+cov: 
+which hit branch 23696 (hit by 59 inputs) 
+while bitflipping, 1187 of 1376 tries hit branch 23696
+while calibrating, 142 of 172 tries hit branch 23696
+calib stage: 0 new coverage in 1548 total execs
+calib stage: 0 new branches in 1548 total execs
+In deterministic stage, 16098 of 24152 tries hit branch 23696
+det stage: 0 new coverage in 25700 total execs
+det stage: 0 new branches in 25700 total execs
+In havoc stage, 143 of 1536 tries hit branch 23696
+havoc stage: 0 new coverage in 27236 total execs
+havoc stage: 0 new branches in 27236 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000506,sync:afl3,src:000390,+cov: 
+which hit branch 15326 (hit by 50 inputs) 
+while bitflipping, 1997 of 2176 tries hit branch 15326
+while calibrating, 249 of 272 tries hit branch 15326
+calib stage: 0 new coverage in 2448 total execs
+calib stage: 0 new branches in 2448 total execs
+In deterministic stage, 17658 of 24614 tries hit branch 15326
+det stage: 0 new coverage in 27062 total execs
+det stage: 0 new branches in 27062 total execs
+In havoc stage, 135 of 1024 tries hit branch 15326
+havoc stage: 0 new coverage in 28086 total execs
+havoc stage: 0 new branches in 28086 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000564,sync:afl3,src:000280,+cov: 
+which hit branch 17171 (hit by 57 inputs) 
+while bitflipping, 969 of 1024 tries hit branch 17171
+while calibrating, 120 of 128 tries hit branch 17171
+calib stage: 0 new coverage in 1152 total execs
+calib stage: 0 new branches in 1152 total execs
+In deterministic stage, 6952 of 8693 tries hit branch 17171
+det stage: 0 new coverage in 9845 total execs
+det stage: 0 new branches in 9845 total execs
+In havoc stage, 162 of 768 tries hit branch 17171
+havoc stage: 0 new coverage in 10613 total execs
+havoc stage: 0 new branches in 10613 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000898,src:000624,op:arith8,pos:49,val:+21,+cov: 
+which hit branch 28618 (hit by 46 inputs) 
+while bitflipping, 1011 of 1104 tries hit branch 28618
+while calibrating, 107 of 138 tries hit branch 28618
+calib stage: 0 new coverage in 1242 total execs
+calib stage: 0 new branches in 1242 total execs
+In deterministic stage, 7924 of 12336 tries hit branch 28618
+det stage: 0 new coverage in 13578 total execs
+det stage: 0 new branches in 13578 total execs
+In havoc stage, 139 of 1024 tries hit branch 28618
+havoc stage: 0 new coverage in 14602 total execs
+havoc stage: 0 new branches in 14602 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001419,sync:afl3,src:001614,+cov: 
+which hit branch 16725 (hit by 49 inputs) 
+while bitflipping, 1391 of 1472 tries hit branch 16725
+while calibrating, 172 of 184 tries hit branch 16725
+calib stage: 0 new coverage in 1656 total execs
+calib stage: 0 new branches in 1656 total execs
+In deterministic stage, 20002 of 23365 tries hit branch 16725
+det stage: 0 new coverage in 25021 total execs
+det stage: 0 new branches in 25021 total execs
+In havoc stage, 99 of 1024 tries hit branch 16725
+havoc stage: 0 new coverage in 26045 total execs
+havoc stage: 0 new branches in 26045 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001527,sync:afl3,src:001625,+cov: 
+which hit branch 85 (hit by 47 inputs) 
+while bitflipping, 1488 of 1568 tries hit branch 85
+while calibrating, 184 of 196 tries hit branch 85
+calib stage: 0 new coverage in 1764 total execs
+calib stage: 0 new branches in 1764 total execs
+In deterministic stage, 17955 of 21261 tries hit branch 85
+det stage: 0 new coverage in 23025 total execs
+det stage: 0 new branches in 23025 total execs
+In havoc stage, 128 of 1024 tries hit branch 85
+havoc stage: 0 new coverage in 24049 total execs
+havoc stage: 0 new branches in 24049 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001528,sync:afl3,src:001193,+cov: 
+which hit branch 52165 (hit by 46 inputs) 
+while bitflipping, 1325 of 1568 tries hit branch 52165
+while calibrating, 76 of 196 tries hit branch 52165
+calib stage: 0 new coverage in 1764 total execs
+calib stage: 0 new branches in 1764 total execs
+In deterministic stage, 13164 of 28880 tries hit branch 52165
+det stage: 0 new coverage in 30645 total execs
+det stage: 0 new branches in 30645 total execs
+In havoc stage, 37 of 768 tries hit branch 52165
+havoc stage: 0 new coverage in 31413 total execs
+havoc stage: 0 new branches in 31413 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001680,sync:afl3,src:001362,+cov: 
+which hit branch 16149 (hit by 44 inputs) 
+while bitflipping, 2384 of 2464 tries hit branch 16149
+while calibrating, 296 of 308 tries hit branch 16149
+calib stage: 0 new coverage in 2772 total execs
+calib stage: 0 new branches in 2772 total execs
+In deterministic stage, 17954 of 21096 tries hit branch 16149
+det stage: 0 new coverage in 23868 total execs
+det stage: 0 new branches in 23868 total execs
+In havoc stage, 130 of 1024 tries hit branch 16149
+havoc stage: 0 new coverage in 24892 total execs
+havoc stage: 0 new branches in 24892 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001877,sync:afl2,src:002151,+cov: 
+which hit branch 65265 (hit by 39 inputs) 
+while bitflipping, 2306 of 2368 tries hit branch 65265
+while calibrating, 287 of 296 tries hit branch 65265
+calib stage: 0 new coverage in 2664 total execs
+calib stage: 0 new branches in 2664 total execs
+In deterministic stage, 9691 of 12275 tries hit branch 65265
+det stage: 0 new coverage in 14939 total execs
+det stage: 0 new branches in 14939 total execs
+In havoc stage, 234 of 1024 tries hit branch 65265
+havoc stage: 0 new coverage in 15963 total execs
+havoc stage: 0 new branches in 15963 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002024,sync:afl3,src:002428,+cov: 
+which hit branch 62200 (hit by 50 inputs) 
+while bitflipping, 9383 of 10616 tries hit branch 62200
+while calibrating, 675 of 1327 tries hit branch 62200
+calib stage: 0 new coverage in 11943 total execs
+calib stage: 0 new branches in 11943 total execs
+In deterministic stage, 117832 of 209082 tries hit branch 62200
+det stage: 0 new coverage in 221025 total execs
+det stage: 0 new branches in 221025 total execs
+In havoc stage, 97 of 1536 tries hit branch 62200
+havoc stage: 0 new coverage in 222561 total execs
+havoc stage: 0 new branches in 222561 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002204,sync:afl3,src:002777,+cov: 
+which hit branch 60193 (hit by 44 inputs) 
+while bitflipping, 2275 of 2640 tries hit branch 60193
+while calibrating, 273 of 330 tries hit branch 60193
+calib stage: 0 new coverage in 2970 total execs
+calib stage: 0 new branches in 2970 total execs
+In deterministic stage, 20525 of 36550 tries hit branch 60193
+det stage: 0 new coverage in 39520 total execs
+det stage: 0 new branches in 39520 total execs
+In havoc stage, 232 of 3072 tries hit branch 60193
+havoc stage: 0 new coverage in 42592 total execs
+havoc stage: 0 new branches in 42592 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002433,sync:afl2,src:002787,+cov: 
+which hit branch 45607 (hit by 41 inputs) 
+while bitflipping, 4597 of 5536 tries hit branch 45607
+while calibrating, 510 of 692 tries hit branch 45607
+calib stage: 0 new coverage in 6228 total execs
+calib stage: 0 new branches in 6228 total execs
+In deterministic stage, 65053 of 108271 tries hit branch 45607
+det stage: 0 new coverage in 114500 total execs
+det stage: 0 new branches in 114500 total execs
+In havoc stage, 232 of 3072 tries hit branch 45607
+havoc stage: 0 new coverage in 117572 total execs
+havoc stage: 0 new branches in 117572 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:003301,sync:afl3,src:003756,+cov: 
+which hit branch 36608 (hit by 19 inputs) 
+while bitflipping, 5578 of 5712 tries hit branch 36608
+while calibrating, 681 of 714 tries hit branch 36608
+calib stage: 0 new coverage in 6426 total execs
+calib stage: 0 new branches in 6426 total execs
+In deterministic stage, 18896 of 25840 tries hit branch 36608
+det stage: 0 new coverage in 32266 total execs
+det stage: 0 new branches in 32266 total execs
+In havoc stage, 1464 of 4096 tries hit branch 36608
+havoc stage: 0 new coverage in 36362 total execs
+havoc stage: 0 new branches in 36362 total execs
+Was returning list of size 0
+Upped max exp to 6
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002488,sync:afl3,src:003041,+cov: 
+which hit branch 34503 (hit by 40 inputs) 
+while bitflipping, 28433 of 30368 tries hit branch 34503
+while calibrating, 3493 of 3796 tries hit branch 34503
+calib stage: 0 new coverage in 34164 total execs
+calib stage: 0 new branches in 34164 total execs
+In deterministic stage, 420262 of 518366 tries hit branch 34503
+det stage: 0 new coverage in 552532 total execs
+det stage: 0 new branches in 552532 total execs
+In havoc stage, 426 of 2048 tries hit branch 34503
+havoc stage: 0 new coverage in 554580 total execs
+havoc stage: 0 new branches in 554580 total execs
+Was returning list of size 0
+Upped max exp to 7
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002492,sync:afl3,src:003194: 
+which hit branch 25560 (hit by 116 inputs) 
+while bitflipping, 9572 of 9632 tries hit branch 25560
+while calibrating, 1194 of 1204 tries hit branch 25560
+calib stage: 0 new coverage in 10836 total execs
+calib stage: 0 new branches in 10836 total execs
+In deterministic stage, 51825 of 54135 tries hit branch 25560
+det stage: 0 new coverage in 64971 total execs
+det stage: 0 new branches in 64971 total execs
+In havoc stage, 955 of 2048 tries hit branch 25560
+havoc stage: 0 new coverage in 67020 total execs
+havoc stage: 0 new branches in 67020 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002493,sync:afl3,src:002941: 
+which hit branch 22177 (hit by 70 inputs) 
+while bitflipping, 32347 of 33032 tries hit branch 22177
+while calibrating, 3965 of 4129 tries hit branch 22177
+calib stage: 0 new coverage in 37162 total execs
+calib stage: 0 new branches in 37162 total execs
+In deterministic stage, 312335 of 348658 tries hit branch 22177
+det stage: 0 new coverage in 385821 total execs
+det stage: 0 new branches in 385821 total execs
+In havoc stage, 1647 of 6144 tries hit branch 22177
+havoc stage: 1 new coverage in 391973 total execs
+havoc stage: 0 new branches in 391973 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002505,sync:afl3,src:002875: 
+which hit branch 34041 (hit by 76 inputs) 
+while bitflipping, 1942 of 2384 tries hit branch 34041
+while calibrating, 220 of 298 tries hit branch 34041
+calib stage: 0 new coverage in 2682 total execs
+calib stage: 0 new branches in 2682 total execs
+In deterministic stage, 24501 of 34539 tries hit branch 34041
+det stage: 0 new coverage in 37221 total execs
+det stage: 0 new branches in 37221 total execs
+In havoc stage, 281 of 2048 tries hit branch 34041
+havoc stage: 0 new coverage in 39269 total execs
+havoc stage: 0 new branches in 39269 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002522,sync:afl3,src:003179: 
+which hit branch 3254 (hit by 86 inputs) 
+while bitflipping, 14889 of 18912 tries hit branch 3254
+while calibrating, 825 of 2364 tries hit branch 3254
+calib stage: 0 new coverage in 21276 total execs
+calib stage: 0 new branches in 21276 total execs
+In havoc stage, 80623 of 232436 tries hit branch 3254
+havoc stage: 0 new coverage in 253714 total execs
+havoc stage: 0 new branches in 253714 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002532,sync:afl3,src:002818: 
+which hit branch 43140 (hit by 87 inputs) 
+while bitflipping, 5303 of 5440 tries hit branch 43140
+while calibrating, 652 of 680 tries hit branch 43140
+calib stage: 0 new coverage in 6120 total execs
+calib stage: 0 new branches in 6120 total execs
+In deterministic stage, 40444 of 47819 tries hit branch 43140
+det stage: 0 new coverage in 53939 total execs
+det stage: 0 new branches in 53939 total execs
+In havoc stage, 582 of 2048 tries hit branch 43140
+havoc stage: 0 new coverage in 55987 total execs
+havoc stage: 0 new branches in 55987 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002569,sync:afl3,src:002966: 
+which hit branch 60277 (hit by 114 inputs) 
+while bitflipping, 2586 of 2720 tries hit branch 60277
+while calibrating, 322 of 340 tries hit branch 60277
+calib stage: 0 new coverage in 3060 total execs
+calib stage: 0 new branches in 3060 total execs
+In deterministic stage, 14190 of 18985 tries hit branch 60277
+det stage: 0 new coverage in 22045 total execs
+det stage: 0 new branches in 22045 total execs
+In havoc stage, 421 of 2048 tries hit branch 60277
+havoc stage: 0 new coverage in 24093 total execs
+havoc stage: 0 new branches in 24093 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002588,sync:afl3,src:003211: 
+which hit branch 16089 (hit by 74 inputs) 
+while bitflipping, 4081 of 4560 tries hit branch 16089
+while calibrating, 427 of 570 tries hit branch 16089
+calib stage: 0 new coverage in 5130 total execs
+calib stage: 0 new branches in 5130 total execs
+In deterministic stage, 43870 of 67896 tries hit branch 16089
+det stage: 0 new coverage in 73026 total execs
+det stage: 0 new branches in 73026 total execs
+In havoc stage, 730 of 6144 tries hit branch 16089
+havoc stage: 1 new coverage in 79178 total execs
+havoc stage: 0 new branches in 79178 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002631,sync:afl3,src:003208: 
+which hit branch 56633 (hit by 98 inputs) 
+while bitflipping, 10106 of 12704 tries hit branch 56633
+while calibrating, 1052 of 1588 tries hit branch 56633
+calib stage: 0 new coverage in 14294 total execs
+calib stage: 0 new branches in 14294 total execs
+In deterministic stage, 135638 of 260035 tries hit branch 56633
+det stage: 0 new coverage in 274331 total execs
+det stage: 0 new branches in 274331 total execs
+In havoc stage, 139 of 1536 tries hit branch 56633
+havoc stage: 0 new coverage in 275867 total execs
+havoc stage: 0 new branches in 275867 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002633,sync:afl3,src:002989: 
+which hit branch 36200 (hit by 115 inputs) 
+while bitflipping, 2380 of 2656 tries hit branch 36200
+while calibrating, 264 of 332 tries hit branch 36200
+calib stage: 0 new coverage in 2988 total execs
+calib stage: 0 new branches in 2988 total execs
+In deterministic stage, 21722 of 36057 tries hit branch 36200
+det stage: 0 new coverage in 39045 total execs
+det stage: 0 new branches in 39045 total execs
+In havoc stage, 202 of 2048 tries hit branch 36200
+havoc stage: 0 new coverage in 41093 total execs
+havoc stage: 0 new branches in 41093 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002636,sync:afl3,src:002950: 
+which hit branch 28219 (hit by 73 inputs) 
+while bitflipping, 327 of 384 tries hit branch 28219
+while calibrating, 37 of 48 tries hit branch 28219
+calib stage: 0 new coverage in 433 total execs
+calib stage: 0 new branches in 433 total execs
+In deterministic stage, 5644 of 7917 tries hit branch 28219
+det stage: 0 new coverage in 8352 total execs
+det stage: 0 new branches in 8352 total execs
+In havoc stage, 104 of 1536 tries hit branch 28219
+havoc stage: 0 new coverage in 9888 total execs
+havoc stage: 0 new branches in 9888 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002716,sync:afl3,src:002923: 
+which hit branch 46417 (hit by 92 inputs) 
+while bitflipping, 41878 of 41920 tries hit branch 46417
+while calibrating, 5234 of 5240 tries hit branch 46417
+calib stage: 0 new coverage in 47161 total execs
+calib stage: 0 new branches in 47161 total execs
+In deterministic stage, 98855 of 100115 tries hit branch 46417
+det stage: 0 new coverage in 147276 total execs
+det stage: 0 new branches in 147276 total execs
+In havoc stage, 1777 of 2048 tries hit branch 46417
+havoc stage: 0 new coverage in 149324 total execs
+havoc stage: 0 new branches in 149324 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002724,sync:afl3,src:003186: 
+which hit branch 23930 (hit by 83 inputs) 
+while bitflipping, 4639 of 4800 tries hit branch 23930
+while calibrating, 583 of 600 tries hit branch 23930
+calib stage: 0 new coverage in 5402 total execs
+calib stage: 0 new branches in 5402 total execs
+In deterministic stage, 79272 of 85714 tries hit branch 23930
+det stage: 0 new coverage in 91116 total execs
+det stage: 0 new branches in 91116 total execs
+In havoc stage, 565 of 2048 tries hit branch 23930
+havoc stage: 0 new coverage in 93164 total execs
+havoc stage: 0 new branches in 93164 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002840,sync:afl3,src:003271: 
+which hit branch 60074 (hit by 118 inputs) 
+while bitflipping, 571 of 608 tries hit branch 60074
+while calibrating, 68 of 76 tries hit branch 60074
+calib stage: 0 new coverage in 684 total execs
+calib stage: 0 new branches in 684 total execs
+In deterministic stage, 13263 of 14593 tries hit branch 60074
+det stage: 0 new coverage in 15277 total execs
+det stage: 0 new branches in 15277 total execs
+In havoc stage, 369 of 2048 tries hit branch 60074
+havoc stage: 0 new coverage in 17326 total execs
+havoc stage: 0 new branches in 17326 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002841,sync:afl3,src:003272: 
+which hit branch 40506 (hit by 121 inputs) 
+while bitflipping, 1150 of 1208 tries hit branch 40506
+while calibrating, 129 of 151 tries hit branch 40506
+calib stage: 0 new coverage in 1359 total execs
+calib stage: 0 new branches in 1359 total execs
+In deterministic stage, 13713 of 18401 tries hit branch 40506
+det stage: 0 new coverage in 19760 total execs
+det stage: 0 new branches in 19760 total execs
+In havoc stage, 310 of 2048 tries hit branch 40506
+havoc stage: 0 new coverage in 21808 total execs
+havoc stage: 0 new branches in 21808 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002842,sync:afl3,src:003267: 
+which hit branch 51494 (hit by 93 inputs) 
+while bitflipping, 5856 of 6368 tries hit branch 51494
+while calibrating, 580 of 796 tries hit branch 51494
+calib stage: 0 new coverage in 7164 total execs
+calib stage: 0 new branches in 7164 total execs
+In deterministic stage, 93873 of 128128 tries hit branch 51494
+det stage: 2 new coverage in 135310 total execs
+det stage: 0 new branches in 135310 total execs
+In havoc stage, 368 of 3072 tries hit branch 51494
+havoc stage: 2 new coverage in 138382 total execs
+havoc stage: 0 new branches in 138382 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002908,sync:afl3,src:003327: 
+which hit branch 34435 (hit by 101 inputs) 
+while bitflipping, 10210 of 10248 tries hit branch 34435
+while calibrating, 1272 of 1281 tries hit branch 34435
+calib stage: 0 new coverage in 11530 total execs
+calib stage: 0 new branches in 11530 total execs
+In deterministic stage, 69491 of 71172 tries hit branch 34435
+det stage: 0 new coverage in 82702 total execs
+det stage: 0 new branches in 82702 total execs
+In havoc stage, 1084 of 2048 tries hit branch 34435
+havoc stage: 0 new coverage in 84750 total execs
+havoc stage: 0 new branches in 84750 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002944,sync:afl3,src:003367: 
+which hit branch 40425 (hit by 88 inputs) 
+while bitflipping, 1702 of 2016 tries hit branch 40425
+while calibrating, 47 of 252 tries hit branch 40425
+calib stage: 0 new coverage in 2268 total execs
+calib stage: 0 new branches in 2268 total execs
+In deterministic stage, 24853 of 40192 tries hit branch 40425
+det stage: 0 new coverage in 42460 total execs
+det stage: 0 new branches in 42460 total execs
+In havoc stage, 106 of 1024 tries hit branch 40425
+havoc stage: 0 new coverage in 43484 total execs
+havoc stage: 0 new branches in 43484 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002977,sync:afl3,src:003460: 
+which hit branch 63960 (hit by 110 inputs) 
+while bitflipping, 3818 of 3896 tries hit branch 63960
+while calibrating, 474 of 487 tries hit branch 63960
+calib stage: 0 new coverage in 4383 total execs
+calib stage: 0 new branches in 4383 total execs
+In deterministic stage, 57938 of 61278 tries hit branch 63960
+det stage: 0 new coverage in 65662 total execs
+det stage: 0 new branches in 65662 total execs
+In havoc stage, 868 of 3072 tries hit branch 63960
+havoc stage: 0 new coverage in 68734 total execs
+havoc stage: 0 new branches in 68734 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:003067,sync:afl3,src:003549: 
+which hit branch 26597 (hit by 80 inputs) 
+while bitflipping, 2079 of 2128 tries hit branch 26597
+while calibrating, 258 of 266 tries hit branch 26597
+calib stage: 0 new coverage in 2394 total execs
+calib stage: 0 new branches in 2394 total execs
+In deterministic stage, 22833 of 24665 tries hit branch 26597
+det stage: 0 new coverage in 27059 total execs
+det stage: 0 new branches in 27059 total execs
+In havoc stage, 982 of 4096 tries hit branch 26597
+havoc stage: 0 new coverage in 31155 total execs
+havoc stage: 0 new branches in 31155 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:003247,sync:afl3,src:003686: 
+which hit branch 59191 (hit by 106 inputs) 
+while bitflipping, 4233 of 4320 tries hit branch 59191
+while calibrating, 527 of 540 tries hit branch 59191
+calib stage: 0 new coverage in 4860 total execs
+calib stage: 0 new branches in 4860 total execs
+In deterministic stage, 17615 of 20653 tries hit branch 59191
+det stage: 0 new coverage in 25513 total execs
+det stage: 0 new branches in 25513 total execs
+In havoc stage, 1387 of 4096 tries hit branch 59191
+havoc stage: 0 new coverage in 29609 total execs
+havoc stage: 0 new branches in 29609 total execs
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002170,src:002159,op:flip1,pos:1168,+cov: 
+which hit branch 31787 (hit by 94 inputs) 
+while bitflipping, 8492 of 9544 tries hit branch 31787
+while calibrating, 697 of 1193 tries hit branch 31787
+calib stage: 1 new coverage in 10745 total execs
+calib stage: 0 new branches in 10745 total execs
+In deterministic stage, 97625 of 171420 tries hit branch 31787
+det stage: 1 new coverage in 182165 total execs
+det stage: 0 new branches in 182165 total execs
+In havoc stage, 92 of 1536 tries hit branch 31787
+havoc stage: 1 new coverage in 183701 total execs
+havoc stage: 0 new branches in 183701 total execs
+Was returning list of size 0
+Upped max exp to 8
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002179,sync:afl3,src:002790,+cov: 
+which hit branch 13592 (hit by 195 inputs) 
+while bitflipping, 5199 of 6368 tries hit branch 13592
+while calibrating, 512 of 796 tries hit branch 13592
+calib stage: 0 new coverage in 7164 total execs
+calib stage: 0 new branches in 7164 total execs
+In deterministic stage, 75219 of 125147 tries hit branch 13592
+det stage: 0 new coverage in 132311 total execs
+det stage: 0 new branches in 132311 total execs
+In havoc stage, 301 of 3072 tries hit branch 13592
+havoc stage: 0 new coverage in 135384 total execs
+havoc stage: 0 new branches in 135384 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002181,sync:afl3,src:002697: 
+which hit branch 56996 (hit by 134 inputs) 
+while bitflipping, 17609 of 18336 tries hit branch 56996
+while calibrating, 2121 of 2292 tries hit branch 56996
+calib stage: 0 new coverage in 20628 total execs
+calib stage: 0 new branches in 20628 total execs
+In deterministic stage, 138919 of 185072 tries hit branch 56996
+det stage: 0 new coverage in 205702 total execs
+det stage: 0 new branches in 205702 total execs
+In havoc stage, 289 of 1536 tries hit branch 56996
+havoc stage: 0 new coverage in 207238 total execs
+havoc stage: 0 new branches in 207238 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002191,sync:afl3,src:002547: 
+which hit branch 31424 (hit by 237 inputs) 
+while bitflipping, 9568 of 10176 tries hit branch 31424
+while calibrating, 1101 of 1272 tries hit branch 31424
+calib stage: 0 new coverage in 11448 total execs
+calib stage: 0 new branches in 11448 total execs
+In deterministic stage, 169163 of 205643 tries hit branch 31424
+det stage: 0 new coverage in 217092 total execs
+det stage: 0 new branches in 217092 total execs
+In havoc stage, 646 of 4096 tries hit branch 31424
+havoc stage: 0 new coverage in 221188 total execs
+havoc stage: 0 new branches in 221188 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002219,sync:afl3,src:002557: 
+which hit branch 39150 (hit by 212 inputs) 
+while bitflipping, 10478 of 12512 tries hit branch 39150
+while calibrating, 425 of 1564 tries hit branch 39150
+calib stage: 0 new coverage in 14076 total execs
+calib stage: 0 new branches in 14076 total execs
+In deterministic stage, 115820 of 283284 tries hit branch 39150
+det stage: 1 new coverage in 297369 total execs
+det stage: 0 new branches in 297369 total execs
+In havoc stage, 183 of 4096 tries hit branch 39150
+havoc stage: 1 new coverage in 301465 total execs
+havoc stage: 0 new branches in 301465 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002246,sync:afl3,src:002565: 
+which hit branch 39657 (hit by 158 inputs) 
+while bitflipping, 5393 of 5504 tries hit branch 39657
+while calibrating, 670 of 688 tries hit branch 39657
+calib stage: 0 new coverage in 6192 total execs
+calib stage: 0 new branches in 6192 total execs
+In deterministic stage, 28851 of 32851 tries hit branch 39657
+det stage: 0 new coverage in 39043 total execs
+det stage: 0 new branches in 39043 total execs
+In havoc stage, 447 of 2048 tries hit branch 39657
+havoc stage: 0 new coverage in 41091 total execs
+havoc stage: 0 new branches in 41091 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002276,sync:afl3,src:002588: 
+which hit branch 367 (hit by 181 inputs) 
+while bitflipping, 8034 of 8144 tries hit branch 367
+while calibrating, 1005 of 1018 tries hit branch 367
+calib stage: 0 new coverage in 9162 total execs
+calib stage: 0 new branches in 9162 total execs
+In deterministic stage, 53133 of 57159 tries hit branch 367
+det stage: 0 new coverage in 66321 total execs
+det stage: 0 new branches in 66321 total execs
+In havoc stage, 586 of 2048 tries hit branch 367
+havoc stage: 0 new coverage in 68369 total execs
+havoc stage: 0 new branches in 68369 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002399,sync:afl3,src:002619: 
+which hit branch 4704 (hit by 216 inputs) 
+while bitflipping, 2463 of 2624 tries hit branch 4704
+while calibrating, 303 of 328 tries hit branch 4704
+calib stage: 0 new coverage in 2952 total execs
+calib stage: 0 new branches in 2952 total execs
+In deterministic stage, 19157 of 25200 tries hit branch 4704
+det stage: 0 new coverage in 28152 total execs
+det stage: 0 new branches in 28152 total execs
+In havoc stage, 235 of 2048 tries hit branch 4704
+havoc stage: 0 new coverage in 30200 total execs
+havoc stage: 0 new branches in 30200 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:002457,src:002429,op:havoc,rep:8,+cov: 
+which hit branch 36302 (hit by 187 inputs) 
+while bitflipping, 2332 of 2816 tries hit branch 36302
+while calibrating, 222 of 352 tries hit branch 36302
+calib stage: 0 new coverage in 3168 total execs
+calib stage: 0 new branches in 3168 total execs
+In deterministic stage, 28084 of 51721 tries hit branch 36302
+det stage: 0 new coverage in 54889 total execs
+det stage: 0 new branches in 54889 total execs
+In havoc stage, 167 of 3072 tries hit branch 36302
+havoc stage: 0 new coverage in 57961 total execs
+havoc stage: 0 new branches in 57961 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:003508,sync:afl3,src:003972,+cov: 
+which hit branch 33411 (hit by 21 inputs) 
+while bitflipping, 3446 of 3776 tries hit branch 33411
+while calibrating, 281 of 472 tries hit branch 33411
+calib stage: 0 new coverage in 4248 total execs
+calib stage: 0 new branches in 4248 total execs
+In deterministic stage, 33534 of 62840 tries hit branch 33411
+det stage: 0 new coverage in 67088 total execs
+det stage: 0 new branches in 67088 total execs
+In havoc stage, 537 of 6144 tries hit branch 33411
+havoc stage: 0 new coverage in 73232 total execs
+havoc stage: 0 new branches in 73232 total execs
+Was returning list of size 0
+Upped max exp to 8
+Entering new queueing cycle
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000001,orig:memory-allocate-failure_read.c-252: 
+which hit branch 52506 (hit by 242 inputs) 
+while bitflipping, 2190 of 2304 tries hit branch 52506
+while calibrating, 271 of 288 tries hit branch 52506
+calib stage: 0 new coverage in 2592 total execs
+calib stage: 0 new branches in 2592 total execs
+In deterministic stage, 10673 of 14529 tries hit branch 52506
+det stage: 0 new coverage in 17121 total execs
+det stage: 0 new branches in 17121 total execs
+In havoc stage, 104 of 1024 tries hit branch 52506
+havoc stage: 0 new coverage in 18145 total execs
+havoc stage: 0 new branches in 18145 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000097,src:000000,op:flip2,pos:52,+cov: 
+which hit branch 52459 (hit by 210 inputs) 
+while bitflipping, 2825 of 2912 tries hit branch 52459
+while calibrating, 351 of 364 tries hit branch 52459
+calib stage: 0 new coverage in 3276 total execs
+calib stage: 0 new branches in 3276 total execs
+In deterministic stage, 22616 of 25766 tries hit branch 52459
+det stage: 0 new coverage in 29042 total execs
+det stage: 0 new branches in 29042 total execs
+In havoc stage, 270 of 1024 tries hit branch 52459
+havoc stage: 0 new coverage in 30066 total execs
+havoc stage: 0 new branches in 30066 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000101,src:000000,op:flip2,pos:280,+cov: 
+which hit branch 61758 (hit by 221 inputs) 
+while bitflipping, 2807 of 2912 tries hit branch 61758
+while calibrating, 348 of 364 tries hit branch 61758
+calib stage: 0 new coverage in 3276 total execs
+calib stage: 0 new branches in 3276 total execs
+In deterministic stage, 23250 of 27075 tries hit branch 61758
+det stage: 0 new coverage in 30352 total execs
+det stage: 0 new branches in 30352 total execs
+In havoc stage, 127 of 1024 tries hit branch 61758
+havoc stage: 0 new coverage in 31376 total execs
+havoc stage: 0 new branches in 31376 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000318,src:000000,op:havoc,rep:64,+cov: 
+which hit branch 64136 (hit by 230 inputs) 
+while bitflipping, 841 of 880 tries hit branch 64136
+while calibrating, 104 of 110 tries hit branch 64136
+calib stage: 0 new coverage in 990 total execs
+calib stage: 0 new branches in 990 total execs
+In deterministic stage, 16390 of 17743 tries hit branch 64136
+det stage: 0 new coverage in 18733 total execs
+det stage: 0 new branches in 18733 total execs
+In havoc stage, 125 of 512 tries hit branch 64136
+havoc stage: 0 new coverage in 19245 total execs
+havoc stage: 0 new branches in 19245 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000400,sync:afl3,src:000482,+cov: 
+which hit branch 18549 (hit by 184 inputs) 
+while bitflipping, 2700 of 2848 tries hit branch 18549
+while calibrating, 333 of 356 tries hit branch 18549
+calib stage: 0 new coverage in 3204 total execs
+calib stage: 0 new branches in 3204 total execs
+In deterministic stage, 14958 of 20737 tries hit branch 18549
+det stage: 0 new coverage in 23941 total execs
+det stage: 0 new branches in 23941 total execs
+In havoc stage, 108 of 1024 tries hit branch 18549
+havoc stage: 0 new coverage in 24965 total execs
+havoc stage: 0 new branches in 24965 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000513,sync:afl3,src:000426,+cov: 
+which hit branch 3499 (hit by 248 inputs) 
+while bitflipping, 1848 of 1928 tries hit branch 3499
+while calibrating, 228 of 241 tries hit branch 3499
+calib stage: 0 new coverage in 2169 total execs
+calib stage: 0 new branches in 2169 total execs
+In deterministic stage, 12830 of 16379 tries hit branch 3499
+det stage: 0 new coverage in 18548 total execs
+det stage: 0 new branches in 18548 total execs
+In havoc stage, 132 of 768 tries hit branch 3499
+havoc stage: 0 new coverage in 19316 total execs
+havoc stage: 0 new branches in 19316 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000535,sync:afl3,src:000738,+cov: 
+which hit branch 39240 (hit by 207 inputs) 
+while bitflipping, 2277 of 2336 tries hit branch 39240
+while calibrating, 281 of 292 tries hit branch 39240
+calib stage: 0 new coverage in 2628 total execs
+calib stage: 0 new branches in 2628 total execs
+In deterministic stage, 14576 of 17320 tries hit branch 39240
+det stage: 0 new coverage in 19948 total execs
+det stage: 0 new branches in 19948 total execs
+In havoc stage, 247 of 1024 tries hit branch 39240
+havoc stage: 0 new coverage in 20972 total execs
+havoc stage: 0 new branches in 20972 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000576,sync:afl3,src:000683,+cov: 
+which hit branch 44457 (hit by 241 inputs) 
+while bitflipping, 108 of 136 tries hit branch 44457
+while calibrating, 13 of 17 tries hit branch 44457
+calib stage: 0 new coverage in 153 total execs
+calib stage: 0 new branches in 153 total execs
+In deterministic stage, 1690 of 2450 tries hit branch 44457
+det stage: 0 new coverage in 2603 total execs
+det stage: 0 new branches in 2603 total execs
+In havoc stage, 27 of 512 tries hit branch 44457
+havoc stage: 0 new coverage in 3115 total execs
+havoc stage: 0 new branches in 3115 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000700,sync:afl3,src:000575,+cov: 
+which hit branch 56869 (hit by 184 inputs) 
+while bitflipping, 69 of 96 tries hit branch 56869
+while calibrating, 8 of 12 tries hit branch 56869
+calib stage: 0 new coverage in 108 total execs
+calib stage: 0 new branches in 108 total execs
+In deterministic stage, 1072 of 1885 tries hit branch 56869
+det stage: 0 new coverage in 1993 total execs
+det stage: 0 new branches in 1993 total execs
+In havoc stage, 10 of 184 tries hit branch 56869
+havoc stage: 0 new coverage in 2177 total execs
+havoc stage: 0 new branches in 2177 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:000864,sync:afl2,src:000854,+cov: 
+which hit branch 49708 (hit by 159 inputs) 
+while bitflipping, 2003 of 2176 tries hit branch 49708
+while calibrating, 151 of 272 tries hit branch 49708
+calib stage: 0 new coverage in 2448 total execs
+calib stage: 0 new branches in 2448 total execs
+In deterministic stage, 17103 of 30948 tries hit branch 49708
+det stage: 0 new coverage in 33396 total execs
+det stage: 0 new branches in 33396 total execs
+In havoc stage, 60 of 768 tries hit branch 49708
+havoc stage: 0 new coverage in 34164 total execs
+havoc stage: 0 new branches in 34164 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001016,src:000804,op:havoc,rep:64,+cov: 
+which hit branch 64250 (hit by 196 inputs) 
+while bitflipping, 824 of 992 tries hit branch 64250
+while calibrating, 53 of 124 tries hit branch 64250
+calib stage: 0 new coverage in 1116 total execs
+calib stage: 0 new branches in 1116 total execs
+In deterministic stage, 10303 of 22066 tries hit branch 64250
+det stage: 0 new coverage in 23182 total execs
+det stage: 0 new branches in 23182 total execs
+In havoc stage, 47 of 768 tries hit branch 64250
+havoc stage: 0 new coverage in 23950 total execs
+havoc stage: 0 new branches in 23950 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001055,src:000863,op:flip1,pos:48,+cov: 
+which hit branch 62080 (hit by 239 inputs) 
+while bitflipping, 889 of 976 tries hit branch 62080
+while calibrating, 107 of 122 tries hit branch 62080
+calib stage: 0 new coverage in 1098 total execs
+calib stage: 0 new branches in 1098 total execs
+In deterministic stage, 16406 of 19884 tries hit branch 62080
+det stage: 0 new coverage in 20982 total execs
+det stage: 0 new branches in 20982 total execs
+In havoc stage, 125 of 1024 tries hit branch 62080
+havoc stage: 0 new coverage in 22006 total execs
+havoc stage: 0 new branches in 22006 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001233,sync:afl3,src:001353,+cov: 
+which hit branch 21055 (hit by 162 inputs) 
+while bitflipping, 2297 of 2360 tries hit branch 21055
+while calibrating, 285 of 295 tries hit branch 21055
+calib stage: 0 new coverage in 2655 total execs
+calib stage: 0 new branches in 2655 total execs
+In deterministic stage, 17833 of 20287 tries hit branch 21055
+det stage: 0 new coverage in 22942 total execs
+det stage: 0 new branches in 22942 total execs
+In havoc stage, 102 of 768 tries hit branch 21055
+havoc stage: 0 new coverage in 23710 total execs
+havoc stage: 0 new branches in 23710 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001290,sync:afl3,src:001331,+cov: 
+which hit branch 47930 (hit by 252 inputs) 
+while bitflipping, 886 of 1056 tries hit branch 47930
+while calibrating, 82 of 132 tries hit branch 47930
+calib stage: 0 new coverage in 1188 total execs
+calib stage: 0 new branches in 1188 total execs
+In deterministic stage, 10111 of 17757 tries hit branch 47930
+det stage: 0 new coverage in 18945 total execs
+det stage: 0 new branches in 18945 total execs
+In havoc stage, 48 of 768 tries hit branch 47930
+havoc stage: 0 new coverage in 19713 total execs
+havoc stage: 0 new branches in 19713 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001786,sync:afl3,src:001112,+cov: 
+which hit branch 33816 (hit by 217 inputs) 
+while bitflipping, 357 of 480 tries hit branch 33816
+while calibrating, 40 of 60 tries hit branch 33816
+calib stage: 0 new coverage in 540 total execs
+calib stage: 0 new branches in 540 total execs
+In deterministic stage, 4988 of 10533 tries hit branch 33816
+det stage: 0 new coverage in 11073 total execs
+det stage: 0 new branches in 11073 total execs
+In havoc stage, 28 of 768 tries hit branch 33816
+havoc stage: 0 new coverage in 11841 total execs
+havoc stage: 0 new branches in 11841 total execs
+Was returning list of size 0
+Upped max exp to 9
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001796,sync:afl3,src:001716: 
+which hit branch 31614 (hit by 466 inputs) 
+while bitflipping, 7142 of 7872 tries hit branch 31614
+while calibrating, 490 of 984 tries hit branch 31614
+calib stage: 0 new coverage in 8856 total execs
+calib stage: 0 new branches in 8856 total execs
+In deterministic stage, 97218 of 141683 tries hit branch 31614
+det stage: 0 new coverage in 150540 total execs
+det stage: 0 new branches in 150540 total execs
+In havoc stage, 184 of 1536 tries hit branch 31614
+havoc stage: 0 new coverage in 152076 total execs
+havoc stage: 0 new branches in 152076 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001814,sync:afl3,src:001148: 
+which hit branch 64592 (hit by 484 inputs) 
+while bitflipping, 2233 of 2320 tries hit branch 64592
+while calibrating, 272 of 290 tries hit branch 64592
+calib stage: 0 new coverage in 2610 total execs
+calib stage: 0 new branches in 2610 total execs
+In deterministic stage, 12547 of 16862 tries hit branch 64592
+det stage: 0 new coverage in 19472 total execs
+det stage: 0 new branches in 19472 total execs
+In havoc stage, 144 of 1024 tries hit branch 64592
+havoc stage: 0 new coverage in 20496 total execs
+havoc stage: 0 new branches in 20496 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001821,sync:afl3,src:001684: 
+which hit branch 57892 (hit by 431 inputs) 
+while bitflipping, 2625 of 2688 tries hit branch 57892
+while calibrating, 326 of 336 tries hit branch 57892
+calib stage: 0 new coverage in 3024 total execs
+calib stage: 0 new branches in 3024 total execs
+In deterministic stage, 11106 of 13371 tries hit branch 57892
+det stage: 0 new coverage in 16395 total execs
+det stage: 0 new branches in 16395 total execs
+In havoc stage, 303 of 1024 tries hit branch 57892
+havoc stage: 0 new coverage in 17419 total execs
+havoc stage: 0 new branches in 17419 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001843,sync:afl3,src:001132: 
+which hit branch 9764 (hit by 414 inputs) 
+while bitflipping, 757 of 832 tries hit branch 9764
+while calibrating, 91 of 104 tries hit branch 9764
+calib stage: 0 new coverage in 936 total execs
+calib stage: 0 new branches in 936 total execs
+In deterministic stage, 14399 of 17438 tries hit branch 9764
+det stage: 0 new coverage in 18374 total execs
+det stage: 0 new branches in 18374 total execs
+In havoc stage, 149 of 1024 tries hit branch 9764
+havoc stage: 0 new coverage in 19398 total execs
+havoc stage: 0 new branches in 19398 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001844,sync:afl3,src:001761: 
+which hit branch 43304 (hit by 352 inputs) 
+while bitflipping, 1226 of 1312 tries hit branch 43304
+while calibrating, 150 of 164 tries hit branch 43304
+calib stage: 0 new coverage in 1476 total execs
+calib stage: 0 new branches in 1476 total execs
+In deterministic stage, 9881 of 14939 tries hit branch 43304
+det stage: 0 new coverage in 16415 total execs
+det stage: 0 new branches in 16415 total execs
+In havoc stage, 85 of 1024 tries hit branch 43304
+havoc stage: 0 new coverage in 17439 total execs
+havoc stage: 0 new branches in 17439 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001962,sync:afl3,src:002297: 
+which hit branch 40603 (hit by 447 inputs) 
+while bitflipping, 411 of 448 tries hit branch 40603
+while calibrating, 50 of 56 tries hit branch 40603
+calib stage: 0 new coverage in 504 total execs
+calib stage: 0 new branches in 504 total execs
+In deterministic stage, 7820 of 9060 tries hit branch 40603
+det stage: 0 new coverage in 9564 total execs
+det stage: 0 new branches in 9564 total execs
+In havoc stage, 98 of 768 tries hit branch 40603
+havoc stage: 0 new coverage in 10332 total execs
+havoc stage: 0 new branches in 10332 total execs
+Trying to fuzz input out-cmp-fairfuzz-1/master/queue/id:001965,sync:afl3,src:002452,+cov: 
+which hit branch 28374 (hit by 272 inputs) 
+while bitflipping, 9681 of 10496 tries hit branch 28374
+while
